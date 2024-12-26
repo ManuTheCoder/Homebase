@@ -3,7 +3,6 @@
 ## Homebase
 
 
-Homebase is a home 🏡 inventory app made by Manu G, Achu K, and Ram V.
 
 ## Introduction
 
